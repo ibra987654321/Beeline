@@ -1,0 +1,1013 @@
+html body{
+    margin: 0;padding: 0;
+    width: 100%;height: 100%;
+    font-family: 'Fira Sans', sans-serif;
+}
+.min__nav{
+position: absolute;
+width: 1361px;
+height: 48px;
+left: 0px;
+top: 0px;
+background: #000000;
+
+}
+.link1{   
+position: absolute;
+width: 19px;
+height: 18px;
+left: 96px;
+top: 14px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+text-decoration-line: underline;
+color: #FEDA24;
+}
+.link2{
+position: absolute;
+width: 57px;
+height: 23px;
+left: 159px;
+top: 11px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+
+}
+.link3{
+    position: absolute;
+    left: 208px;
+    top: 13px;
+}
+.link4{
+position: absolute;
+width: 110px;
+height: 19px;
+left: 614px;
+top: 14px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 132%;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+color: #FFFFFF;
+
+}
+.link5{
+    position: absolute;
+width: 10.43px;
+height: 10.5px;
+left: 738px;
+top: 15px;
+}
+.link6{
+    position: absolute;
+    width: 9.14px;
+    height: 1.03px;
+    left: 730px;
+    top: 28px;
+    border: 1px solid #FFFFFF;
+    transform: matrix(-0.71, 0.73, -0.69, -0.71, 0, 0);
+}
+.icon{
+position: absolute;
+left: 72.65%;
+right: 26.18%;
+top: 0.48%;
+bottom: 99.05%;
+position: absolute;
+width: 12.34px;
+height: 12.33px;
+left: 990.07px;
+top: 17.6px;
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 988px;
+top: 16px;
+}
+.link7{
+    position: absolute;
+width: 58px;
+height: 23px;
+left: 1008px;
+top: 11px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+
+}
+.link8{
+    position: absolute;
+width: 103px;
+height: 17px;
+left: 1138px;
+top: 15px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+}
+.link9{
+    position: absolute;
+left: 1236px;
+top: 18px;
+}
+.navbar{
+    position: absolute;
+width: 1361px;
+height: 72px;
+left: 0px;
+top: 49px;
+font-family: 'Fira Sans', sans-serif;
+background: #FFFFFF;
+/* kurales */
+
+box-shadow: 0px 2px 3px rgba(156, 156, 156, 0.25);
+}
+.nav__link a{
+    text-decoration: none;
+    color: #000000;
+}
+.main__nav{
+    position: absolute;
+    top: 13px;
+    left: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 900px;
+    font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+}
+.nav__title{
+position: absolute;
+width: 106px;
+height: 32px;
+left: 1159px;
+top:19px;
+
+background: #FEDA24;
+border-radius: 100px;
+
+}
+.nav__title h3{
+    position: absolute;
+    left: 13px;
+    top: -7px;
+color: #000000;
+    font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+}
+.wrapper__container{
+    font-family: 'Fira Sans', sans-serif;
+position: absolute;
+left: 99.93%;
+right: 0%;
+top: -20.35%;
+bottom: -77.07%;
+background: radial-gradient(119.42% 133.12% at -14.62% 31.8%, #FFFFFF 4.78%, #F6F6F6 50%, #FFFFFF 100%);
+
+}
+.wrapper__title{
+    /* Title */
+
+position: absolute;
+width: 444px;
+height: 98px;
+left: 98.5px;
+top: 192.23px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 49px;
+/* or 111% */
+
+color: #272C36;
+}
+.wrapper__cont{
+    /* Desc */
+
+position: absolute;
+width: 485px;
+height: 55px;
+left: 98.5px;
+top: 314.23px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* or 130% */
+
+color: #272C36;
+}
+.wrapper__pic{
+    /* Векторный смарт-объект 1 */
+
+position: absolute;
+width: 239px;
+left: 767.91px;
+top: 131px;
+}
+.wrapper__footer{
+    /* Rectangle 2264 */
+
+position: absolute;
+width: 1360px;
+height: 66.6px;
+left: 0px;
+top: 313.4px;
+
+background: #FFCD00;
+
+}
+.title{
+    position: absolute;
+width: 78px;
+height: 34px;
+left: 266px;
+top: 746px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #272C36;
+}
+.section{
+    height: 767px;
+    width: 100%;
+}
+.link__icon1{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 222px;
+    top: 565px;
+
+}
+.link__icon2{
+    /* Title */
+
+position: absolute;
+width: 78px;
+height: 34px;
+left: 266px;
+top: 746px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #272C36;
+}
+.link__icon3{
+    /* Сканируйте QR-код и получайте номер мгновенно */
+
+position: absolute;
+width: 236px;
+height: 40px;
+left: 187px;
+top: 792px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+color: #272C36;
+}
+.link__icon4{
+    position: absolute;
+width: 165px;
+height: 165px;
+left: 599px;
+top: 565px;
+
+}
+.link__icon5{
+    /* Title */
+
+position: absolute;
+width: 98px;
+height: 34px;
+left: 632px;
+top: 746px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #272C36;
+
+
+}
+.link__icon6{
+    /* Не нужно переставлять SIM-карты */
+
+position: absolute;
+width: 236px;
+height: 40px;
+left: 563px;
+top: 792px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+color: #272C36;
+}
+.link__icon7{
+position: absolute;
+width: 165px;
+height: 165px;
+left: 975px;
+top: 565px;
+}
+.link__icon8{
+    /* Title */
+
+position: absolute;
+width: 140px;
+height: 34px;
+left: 988px;
+top: 746px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #272C36;
+
+
+}
+.link__icon9{
+    /* Управлять профилем может только владелец eSIM */
+
+position: absolute;
+width: 236px;
+height: 40px;
+left: 939px;
+top: 792px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+text-align: center;
+}
+.section__title{
+    /* Title */
+
+position: absolute;
+width: 476px;
+height: 86px;
+left: 97px;
+top: 896px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 43px;
+color: #272C36;
+}
+.section__paraf{
+    /* Посмотрите список устройств, на которых работает технология eSIM. */
+
+position: absolute;
+width: 476px;
+height: 52px;
+left: 97px;
+top: 998px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* or 130% */
+letter-spacing: 0.01em;
+color: #272C36;
+}
+.apple{
+position: absolute;
+width: 280px;
+height: 60px;
+left: 691px;
+top: 896px;
+background: #FBFBFB;
+border: 2px solid #ABCFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+border-radius: 12px;
+}
+.google{
+    /* Rectangle 2244 */
+
+position: absolute;
+width: 280px;
+height: 60px;
+left: 691px;
+top: 970px;
+
+background: #FBFBFB;
+border: 2px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 12px;
+}
+.xiaomi{
+    /* Rectangle 2247 */
+
+position: absolute;
+width: 280px;
+height: 60px;
+left: 691px;
+top: 1044px;
+
+background: #FBFBFB;
+border: 2px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 12px;
+
+}
+.samsung{
+    /* Rectangle 2245 */
+
+position: absolute;
+width: 280px;
+height: 60px;
+left: 985px;
+top: 896px;
+
+background: #FBFBFB;
+border: 2px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 12px;
+
+}
+.huawei{
+    /* Rectangle 2246 */
+
+position: absolute;
+width: 280px;
+height: 60px;
+left: 985px;
+top: 970px;
+
+background: #FBFBFB;
+border: 2px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 12px;
+
+}
+.motorola{
+    /* Rectangle 2248 */
+
+position: absolute;
+width: 280px;
+height: 60px;
+left: 985px;
+top: 1044px;
+
+background: #FBFBFB;
+border: 2px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 12px;
+
+}
+.second__section{
+    /* Background */
+
+position: absolute;
+width: 1360px;
+height: 698px;
+left: 1px;
+top: 1168px;
+background: linear-gradient(180deg, #FBFBFB 0%, #F4F4F4 100%);
+
+}
+.second__section__title{
+    /* Title */
+
+position: absolute;
+width: 278px;
+height: 43px;
+left: 97px;
+top: 65px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 43px;
+color: #272C36;
+}
+.second__section__paraf{
+    /* Desc */
+
+position: absolute;
+width: 400px;
+height: 80px;
+left: 97px;
+top: 123px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* or 130% */
+letter-spacing: 0.01em;
+
+color: #272C36;
+}
+.call{
+    /* Call */
+
+position: absolute;
+width: 279px;
+height: 26px;
+left: 25px;
+top: 19px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+letter-spacing: 0.01em;
+
+color: #272C36;
+}
+.surface{
+    /* Surface */
+
+position: absolute;
+width: 369px;
+height: 64px;
+left: 97px;
+top: 236px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+border-radius: 12px;
+}
+.setting1{
+    /* Ellipse 11 */
+
+position: absolute;
+width: 140px;
+height: 140px;
+left: 605px;
+top: 65px;
+
+}
+.blur1{
+    /* Rectangle 2240 */
+
+position: absolute;
+width: 159px;
+height: 79px;
+left: 0px;
+top: 10px;
+
+background: rgba(245, 245, 245, 0.4);
+backdrop-filter: blur(1px);
+/* Note: backdrop-filter has minimal browser support */
+
+}
+.blur2{
+    position: absolute;
+width: 159px;
+height: 79px;
+left: 0px;
+top: 110px;
+
+background: rgba(245, 245, 245, 0.4);
+backdrop-filter: blur(1px);
+}
+.setting__text{
+    /* Step */
+
+position: absolute;
+width: 220px;
+height: 60px;
+left: 575px;
+top: 230px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+color: #272C36;
+}
+.settin2{
+    
+position: absolute;
+width: 231px;
+height: 502px;
+left: 846px;
+top: 65px;
+}
+.blur3{
+    /* Rectangle 2240 */
+
+position: absolute;
+width: 172px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+background: rgba(245, 245, 245, 0.4);
+backdrop-filter: blur(1px);
+/* Note: backdrop-filter has minimal browser support */
+
+}
+.blur4{
+    position: absolute;
+width: 172px;
+height: 96px;
+left: 0px;
+top: 86px;
+background: rgba(245, 245, 245, 0.4);
+backdrop-filter: blur(1px);
+}
+.setting__text2{
+    /* Step */
+
+position: absolute;
+width: 220px;
+height: 40px;
+left: 815px;
+top: 230px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+color: #272C36;
+}
+.settin3{
+    position: absolute;
+    width: 231px;
+    height: 502px;
+    left: 1084px;
+    top: 65px;
+}
+.setting__text3{
+    /* Step */
+
+position: absolute;
+width: 220px;
+height: 40px;
+left: 1064px;
+top: 240px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #272C36;
+}
+.rectangle{
+    /* Rectangle 2237 */
+
+position: absolute;
+width: 572px;
+height: 270px;
+left: 97px;
+top: 364px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+border-radius: 12px;
+}
+.rectangle__title{
+    /* Title */
+
+position: absolute;
+width: 234px;
+height: 34px;
+left: 48px;
+top: 48px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #272C36;
+
+
+}
+.rectangle__paraf{
+    /* Desc */
+
+position: absolute;
+width: 476px;
+height: 52px;
+left: 48px;
+top: 98px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* or 130% */
+letter-spacing: 0.01em;
+
+color: #272C36;
+}
+.btn{
+    /* Rectangle 2236 */
+    font-family: 'Fira Sans', sans-serif;
+position: absolute;
+width: 187px;
+height: 48px;
+left: 48px;
+top: 174px;
+background: #FFCD00;
+box-shadow: 0px 3px 12px rgba(255, 205, 0, 0.35);
+border-radius: 40px;
+}
+.rectangle2{
+    /* Rectangle 2238 */
+
+position: absolute;
+width: 572px;
+height: 270px;
+left: 693px;
+top: 364px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+border-radius: 12px;
+
+}
+.third__section__title{
+    /* Title */
+
+position: absolute;
+width: 430px;
+height: 43px;
+left: 97px;
+top: 1930px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 43px;
+
+color: #272C36;
+}
+.answer{
+    position: absolute;
+width: 1168px;
+left: 97px;
+top: 2005px;
+}
+.answer__li{
+margin: 17px;
+width: 100%;
+height: 80px;
+border: 2px solid #ABCFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+border-radius: 12px;
+display: flex;
+justify-content: space-between;
+}
+.rectangle3{
+    margin: 28px;
+}
+.rectangle4{
+    margin: 31px;
+}
+.footer{
+    /* Rectangle Copy 7.1 */
+
+position: absolute;
+width: 1360px;
+height: 629px;
+left: 0px;
+top: 2726px;
+
+background: #313031;
+
+}
+.footer__contaent{
+    position: absolute;
+    left: 95px;
+    top: 48px;
+    width: 1050px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer__contaent__main{
+    height: 100%;
+    width: 290px;
+   
+}
+.footer__title{
+margin-bottom: 32px;
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 12px;
+/* identical to box height, or 67% */
+
+color: #FFFFFF;
+}
+.footer__text{
+     display: flex;
+     flex-direction: column;
+    justify-content: space-around;
+}
+.list{
+    padding-bottom: 20px;
+}
+.list a{
+    
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 12px;
+    text-decoration: none;
+    color: #808285;
+}
+.footer__contact{
+    position: absolute;
+    left: 93px;
+    top: 404px;
+    width: 1171px;
+    border-top: 1px solid #424242;
+    border-bottom: 1px solid #424242;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.email{
+    position: absolute;
+width: 133px;
+height: 12px;
+left: 500px;
+top: 26px;
+
+
+}
+.email a{
+  text-decoration: none;
+    color: #ffffff;  
+}
+.contact__icon{
+    position: absolute;
+    width: 12.83px;
+    height: 22px;
+    left: 672px;
+    top: 23px;
+}
+.contact__numer{
+    position: absolute;
+    width: 133px;
+    height: 12px;
+    left: 694px;
+    top: 26px;
+    
+}
+.contact__numer a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.other{
+    position: absolute;
+    top: 19px;
+    left: 862px;
+    color: #FFFFFF;
+}
+.beeline__icon{
+    /* beeline_logo-guide4 */
+
+position: absolute;
+width: 117px;
+height: 47px;
+left: 94px;
+top: 519px;
+
+}
+.beeline__info{
+    /* © Beeline, 2019 Copy */
+
+position: absolute;
+width: 105px;
+height: 12px;
+left: 283px;
+top: 551px;
+
+font-family: Fira Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+color: #FFFFFF;
+
+
+}
+.playMarket{
+    /* Vector */
+
+position: absolute;
+width: 23.17px;
+height: 24px;
+left: 581px;
+top: 539px;
+}
+.ios{
+    /* Vector */
+
+position: absolute;
+width: 21.23px;
+height: 24px;
+left: 621px;
+top: 538px;
+
+
+}
